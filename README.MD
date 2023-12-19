@@ -1,1 +1,3 @@
-Power Consumption multivariate timeseries prediction
+# Power Consumption multivariate timeseries prediction
+
+Dataset: UCI Households power consumption
